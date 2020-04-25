@@ -1,0 +1,4 @@
+cat abc
+chmod 775 abc
+ls 
+ls -lrt
